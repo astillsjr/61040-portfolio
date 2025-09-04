@@ -4,7 +4,7 @@ Welcome to my Software Design class portfolio! This repository contains all the 
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Hi! I'm Anthony Stills Jr., a senior studying Computer Science and Engineering. I'm passionate about writing clean, efficient code and building software that solves real-world problems. This portfolio showcases my growth and understanding of software design throughout the semester.
 
