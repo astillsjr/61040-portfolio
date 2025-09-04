@@ -16,7 +16,7 @@ Below is a list of all the assignments for this course:
 
 | Assignment | Description | Link |
 |------------|-------------|------|
-| Assignment 1: [Problem Framing] | Brief description of what it covers | [View Assignment](assignments/assignment1) |
+| Assignment 1: [Problem Framing] | Brief description of what it covers | [View Assignment](assignments/assignment1.md) |
 | Assignment 2: [Functional Design] | Brief description of what it covers | [View Assignment](assignments/assignment2) |
 | Assignment 3: [An LLM-Based Feature] | Brief description of what it covers | [View Assignment](assignments/assignment3) |
 | Assignment 4: [Backend MVP] | Brief description of what it covers | [View Assignment](assignments/assignment4) |
@@ -24,7 +24,7 @@ Below is a list of all the assignments for this course:
 | Assignment 6: [Full Stack App] | Brief description of what it covers | [View Assignment](assignments/assignment6) |
 | Assignment 7: [User Testing] | Brief description of what it covers | [View Assignment](assignments/assignment7) |
 | ... | ... | ... |
-| Final Project: [Title] | Capstone project for the course | [View Project](./final-project) |
+| Team Project: [Title] | Team project for the course | [View Project](./final-project) |
 
 > 🔄 *Update this table as new assignments are added to the repository.*
 
