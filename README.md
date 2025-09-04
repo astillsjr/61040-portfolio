@@ -32,7 +32,7 @@ Below is a list of all the assignments for this course:
 
 ## 🛠️ Technologies Used
 
-- JavaScript, etc.. 
+- Programming Languages Here...
 - Git & GitHub
 - VS Code 
 - Unit Testing Frameworks (e.g., `pytest`, `JUnit`, etc.)
