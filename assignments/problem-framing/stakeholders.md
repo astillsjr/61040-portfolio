@@ -14,6 +14,8 @@
 **Impacts:**  
 The user is directly harmed by stress, lower productivity, and reduced academic or personal performance. A good solution would help them start earlier and reduce anxiety. The evaluator often receives rushed or lower-quality work, which may not reflect the user’s potential. The peer collaborator may experience delays or frustration when procrastination affects shared tasks, leading to unfair workload distribution or missed deadlines.
 
+---
+
 ### Problem 2: *Travel Planning Chaos*
 *(Scattered Travel Plans Across Apps – Domain: Organizing Group Travel)*
 
@@ -24,6 +26,8 @@ The user is directly harmed by stress, lower productivity, and reduced academic 
 
 **Impacts:**
 The organizer experiences stress and burnout trying to manage information spread across messages, documents, and booking platforms. Travelers may miss key details like departure times or addresses, leading to late arrivals or missed reservations. Vendors can be impacted by last-minute changes or unclear communication, which disrupts their planning and customer experience. 
+
+---
 
 ### Problem 3: *Falling Off the Learning Wagon*  
 *(Inconsistent Learning Habits – Domain: Learning Through Micro-Challenges)*
