@@ -15,6 +15,3 @@ This repository contains my submission for Assignment 1: Problem Framing. Each s
 - [`evidence-and-comparables/problem-2.md`](evidence-and-comparables/problem-2.md): Evidence and comparables for Problem 2
 - [`evidence-and-comparables/problem-3.md`](evidence-and-comparables/problem-3.md): Evidence and comparables for Problem 3
 - [`features.md`](features.md): 3 feature ideas per selected problem (9 total)
-
-## Commit Info
-- Commit hash: `abc123def456...` (fill this in when submitting)
