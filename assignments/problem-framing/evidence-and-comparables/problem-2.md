@@ -6,25 +6,18 @@
 ### Problem 2: *Travel Planning Chaos*
 *(Scattered Travel Plans Across Apps – Domain: Organizing Group Travel)*
 
-- [Procrastination Statistics](https://zipdo.co/procrastination-statistics/): A compilation of statistics from various sources that states that  
+- [5 Common Group Travel Problems and Their Solutions](https://zipdo.co/procrastination-statistics/): An article that states that 38% of travelers report confusion from juggling multiple communication platforms during group planning.
 
+- [Pamela Hsiung](https://pamelah.co/travelplanningwithmeta): An article that claims that travel planning is a $250 billion sector, yet fragmented tools persist.
 
-- [Student Procrastionation Statistics: Market Data Report 2025](https://worldmetrics.org/procrastination-statistics/): 
+- [Una](https://www.cnbc.com/2021/08/15/new-travel-apps-match-you-with-the-trips-you-really-want-or-can-afford.html): Travel app bundles AI-based itinerary creation with collaboration features for groups, tackling fragmentation.
 
+- [Roadtrippers](https://www.techradar.com/computing/websites-apps/roadtrippers): Streamlines trip planning by consolidating maps, routes, points of interest, schedules, and reservations into one interface.
 
-- [Academic Procrastination Behavior among Public University Students](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/1277866):
+- [Travefy](https://en.wikipedia.org/wiki/Travefy): Offers team-based itinerary creation and cost-sharing tools tailored toward group travel and travel professionals.
 
+- [GuideGeek](https://www.lifewire.com/ai-travel-apps-11679719): An AI-powered travel chatbot launched in 2023, enables efficient itinerary creation and trip recommendations through messaging platforms, offering a more centralized experience than multi-app workflows.
 
-- [What Is Procrastination?](https://www.verywellmind.com/the-psychology-of-procrastination-2795944):
+- [SquadTrip](https://squadtrip.com/): Allows for the creation of branded trip pages with itineraries, pricing, packages, add-ons.
 
-
-- [Procrastination Statistics 2024 and Shocking facts](https://mccagues.com/procrastination-statistics):
-
-
-- [Using Assignment Incentives to Reduce Student Procrastination and Encourage Code Review Interactions](https://arxiv.org/abs/2311.15125):
-
-
-- [Writers Gonna Wait: The Effectiveness of Notifications to Initiate Aversive Action in Writing Procrastination](https://arxiv.org/abs/2101.10191):
-
-
-- [The Problem With Procrastination](https://www.reddit.com/r/college/comments/1fotxvp/the_problem_with_procrastination/):
+- [Frienzy](https://www.frienzy.com/): Group travel planning app and social platform designed to simplify coordinating trips with friends.

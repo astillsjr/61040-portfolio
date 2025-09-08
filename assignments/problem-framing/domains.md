@@ -22,7 +22,7 @@
 
 1. Procrastination & Motivation
 
-I personally struggle with procrastination, especially when it comes to school assignments. I often know what needs to be done but find it hard to get started until the deadline is close, which adds stress and reduces the quality of my work. This domain feels personally relevant, and I know many students and people in general experience the same issue. I beleive that there are factors (small nudges, tracking, or accountability) that could help reduce this behavior in a way that actually works.
+Procrastination is something that many people struggle with. We often know what needs to be done, but find it hard to get started until the deadline is close, which adds stress and reduces the quality of our work. This domain feels personally relevant, and I know many students and people in general experience the same issue. I beleive that there are factors (small nudges, tracking, or accountability) that could help reduce this behavior in a way that actually works.
 
 2. Organizing Group Travel
 
