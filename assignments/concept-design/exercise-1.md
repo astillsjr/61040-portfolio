@@ -54,8 +54,8 @@
 
 ## Question(s)
 
-1. The first invariant of the state is that the aggregation/count of each item in the registry (including after purchases are made),
-must always be a nonnegative integer. The second invariant is that 
+1. The first invariant of the state is that the aggregation/count of each item in the registry (including after purchases are made), must always be a nonnegative integer. The second invariant is that the count of purchases made for each item should never exceed the number of items requested. The first invariant (non-negative item count) is more important because it directly impacts the ability to track the state of the registry in a consistent manner. A negative item count would break the entire tracking system, as the logic around available items depends on this invariant.The purchase action is most affected by this invariant. If the item count drops below zero during a purchase, it would lead to inconsistencies. This invariant is preserved by checking that the purchase count is never more than the available count of the item in the registry.
 
-The first invariant is is more important because... The purchase action is most affected by the invariant, and preserves it by requiring
-that each request has at least count before succeeding. This prevents the  
+2. The purchase action potentially violates the first invariant. If more items are purchased than the available count, this would result in negative numbers in the requests. This might happen if two users are purchasing the same item simultaneously or if there's a failure in concurrency management, it's possible for the count to drop below zero.
+
+3.

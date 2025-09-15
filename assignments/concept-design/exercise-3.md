@@ -4,7 +4,7 @@
 ---
 
 **concept** PersonalAccessToken[User, Scope]
-**purpose** authenticate users securely via the command line or with the API without using a password 
+**purpose** authenticate users securely without using a password 
 **principle**
   a user creates a token, which has the capabilites to access resources and perform actions 
   on those resources that the owner of the token has;
@@ -45,7 +45,5 @@
 
 ## Response
 
-*PersonalAccessToken* differs from *PasswordAuthentication* because they can be scoped to specific actions or resources, 
-limiting the risk if they are compromised. A password grants full access to the account, while a PAT can be limited in 
-scope and can be revoked independently without affecting the user’s entire account.
+*PersonalAccessToken* differs from *PasswordAuthentication* because they can be scoped to specific actions or resources, limiting the risk if they are compromised. A password grants full access to the account, while a personal access token can be limited in scope and can be revoked independently without affecting the user’s entire account. I would change the GitHub documentation by providing concrete examples of when to use a personal access token (e.g., automating tasks via the API, performing Git operations on the command line) and contrast this with the user login flow where passwords are still necessary.
 
