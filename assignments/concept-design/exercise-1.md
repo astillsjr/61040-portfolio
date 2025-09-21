@@ -1,5 +1,4 @@
 # Problem Set 1: Reading and Writing Concepts
-
 ## Exercise 1: Reading a concept
 
 ---
