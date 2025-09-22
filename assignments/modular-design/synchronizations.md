@@ -16,7 +16,7 @@ NonceGeneration.generate (): (nonce)
 **when** UrlShortening.register (): (shortUrl)   
 **then** ExpiringResource.setExpiry (resource: shortUrl, seconds: 3600)
 
-**sync** expireResource
+**sync** expireResource  
 **when** ExpiringResource.systemExpireResource (): (resource: shortUrl)  
 **then** UrlShortening.delete (shortUrl: resource)
 

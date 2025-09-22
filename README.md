@@ -14,7 +14,7 @@ My goals for the semester are to improve my ability to write clean, efficient co
 
 ---
 
-## 📁 Assignments
+## Assignments
 
 Below is a list of all the assignments for this course:
 
@@ -27,6 +27,8 @@ Below is a list of all the assignments for this course:
 | Assignment 5: [Full Stack MVP] | Brief description of what it covers | [View Assignment](assignments/assignment5) |
 | Assignment 6: [Full Stack App] | Brief description of what it covers | [View Assignment](assignments/assignment6) |
 | Assignment 7: [User Testing] | Brief description of what it covers | [View Assignment](assignments/assignment7) |
+| Pset 1: [Concept Design] | Brief description of what it covers | [View Assignment](assignments/concept-design) |
+| Pset 2: [Modular Design] | Brief description of what it covers | [View Assignment](assignments/modular-design) |
 | ... | ... | ... |
 | Team Project: [Title] | Team project for the course | [View Project](./final-project) |
 
@@ -34,7 +36,7 @@ Below is a list of all the assignments for this course:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Programming Languages Here...
 - Git & GitHub
@@ -43,7 +45,7 @@ Below is a list of all the assignments for this course:
 
 ---
 
-## 📜 License
+## License
 
 This repository is for educational purposes only.
 
