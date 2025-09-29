@@ -21,7 +21,7 @@ Below is a list of all the assignments for this course:
 | Assignment | Description | Link |
 |------------|-------------|------|
 | Assignment 1: [Problem Framing] | Brief description of what it covers | [View Assignment](assignments/problem-framing) |
-| Assignment 2: [Functional Design] | Brief description of what it covers | [View Assignment](assignments/assignment2) |
+| Assignment 2: [Functional Design] | Brief description of what it covers | [View Assignment](assignments/functional-design) |
 | Assignment 3: [An LLM-Based Feature] | Brief description of what it covers | [View Assignment](assignments/assignment3) |
 | Assignment 4: [Backend MVP] | Brief description of what it covers | [View Assignment](assignments/assignment4) |
 | Assignment 5: [Full Stack MVP] | Brief description of what it covers | [View Assignment](assignments/assignment5) |
